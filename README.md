@@ -90,7 +90,7 @@ const { start } = composeMocks(
 start()
 ```
 
-> Mocks structure if up to you, but be sure to call `start()` **only once!**
+> Mocks structure is up to you, but be sure to call `start()` **only once!**
 
 ### 4. Integrate
 
